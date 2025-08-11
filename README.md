@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **Machine learning , Frontend ,Python , HTML/CSS , React , Javascript , Bootstrap**
+- 💬 Ask me about **Java , Frontend , HTML/CSS , ReactJs , Javascript , Bootstrap , DBMS , HSQL , GCP**
 
 - 📫 How to reach me **pradyum209@gmail.com**
 
