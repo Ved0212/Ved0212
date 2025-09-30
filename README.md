@@ -3,7 +3,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00CED1&height=200&section=header&text=Hi 👋, I'm Pradyum Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00CED1&height=200&section=header&text=Pradyum%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner"/>
 </p>
 
 <!-- Typing Animation -->
