@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pradyum209@gmail.com**
 
-- 📄 Know about my experiences [[https://www.linkedin.com/in/pradyum-parmar/](https://www.linkedin.com/in/pradyum-parmar-621081218/)]
+- 📄 Know about my experiences [[https://www.linkedin.com/in/pradyum-parmar/](www.linkedin.com/in/pradyum-parmar-b8189b37a)]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
