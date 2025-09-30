@@ -1,9 +1,9 @@
 <!-- <h1 align="center"></h1> -->
 
 
-<!-- Animated Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1E90FF,100:00CED1&height=250&section=header&text=Hi%20👋,%20I'm%20Pradyum%20Parmar&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=40" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00CED1&height=200&section=header&text=Hi%20👋,%20I'm%20Pradyum%20Parmar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner"/>
 </p>
 
 <!-- Typing Animation -->
