@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pradyum Parmar</h1>
 
 <p align="center">
+  <img src="BANNER_URL_HERE" alt="Pradyum Parmar Banner" />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/Pradyum2524">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AFFD5&center=true&vCenter=true&width=500&lines=B.Tech+in+Computer+Science;Machine+Learning+Enthusiast;Frontend+%26+Backend+Developer;Tech+Explorer+%7C+Problem+Solver" alt="Typing SVG" />
   </a>
