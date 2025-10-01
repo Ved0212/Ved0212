@@ -17,67 +17,47 @@
 ---
 
 ## 👨‍💻 About Me  
+
 - 🌱 Currently learning **Full-Stack Development (Frontend + Backend)**  
 - 💬 Ask me about **Java, ReactJS, JavaScript, HTML/CSS, Bootstrap, DBMS, HSQL, GCP**  
 - 📫 Reach me at: **pradyum.parmar2524@gmail.com**  
-- 📄 Know more about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/pradyum-parmar-b8189b37a)  
+- 📄 More about me on: [LinkedIn Profile](https://www.linkedin.com/in/pradyum-parmar-621081218/)  
 
 ---
 
 ## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://github.com/Pradyum2524" target="blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pradyum-parmar-b8189b37a" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
+<p align="left">
+  <a href="https://github.com/Ved0212"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/pradyum-parmar-621081218/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,bootstrap,nodejs,jquery,git,github,figma,vscode,gcp" />
+## 🚀 Languages and Tools  
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,vscode,nodejs,jquery,js,html,css,github,figma,bootstrap" />
+  </a> 
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradyum2524&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradyum2524&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ved0212&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ved0212&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradyum2524&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ved0212&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
 
-## ✍️ Latest Blog Posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🚀 Fun Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
----
-
-## 👀 Visitor Count  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pradyum2524&style=for-the-badge&color=00CED1" alt="Visitor Count"/>
-</p>
-
-<!-- Footer -->
+<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:1E90FF&height=120&section=footer"/>
 </p>
-
