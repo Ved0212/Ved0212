@@ -49,6 +49,28 @@
 </p>
 
 ---
+## ✍️ Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🚀 Fun Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+---
+
+## 👀 Visitor Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pradyum2524&style=for-the-badge&color=00CED1" alt="Visitor Count"/>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:1E90FF&height=120&section=footer"/>
+</p>
 
 ## 📈 GitHub Activity Graph  
 <p align="center">
