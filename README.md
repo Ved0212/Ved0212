@@ -63,13 +63,9 @@
 ---
 
 ## 👀 Visitor Count  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pradyum2524&style=for-the-badge&color=00CED1" alt="Visitor Count"/>
-</p>
-
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:1E90FF&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Pradyum2524&style=for-the-badge&color=00CED1" alt="Visitor Count"/>
 </p>
 
 ## 📈 GitHub Activity Graph  
@@ -79,7 +75,6 @@
 
 ---
 
-<!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:1E90FF&height=120&section=footer"/>
 </p>
